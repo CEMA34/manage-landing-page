@@ -245,6 +245,21 @@ footer .button {
     display: none;
 }
 
+.attribution{
+    text-align: center;
+    color: hsl(227, 12%, 61%);
+    font-weight: 700;
+    background-color:hsl(233, 12%, 13%);
+
+}
+
+.attribution a{
+    text-decoration: none;
+    color: hsl(13, 100%, 96%);
+    font-weight: 300;
+    font-size: 13px;
+}
+
 
 
 @media(max-width:675px) {
