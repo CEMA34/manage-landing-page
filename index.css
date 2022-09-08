@@ -277,7 +277,7 @@ footer .button {
     }
 
     nav ul {
-        width: 425px;
+        width: 370px;
         justify-content: space-between;
     }
 
@@ -347,7 +347,7 @@ footer .button {
     .second-section h3 {
         margin: 0 auto;
         background-color: hsl(13, 100%, 96%);
-        width: 80%;
+        width: 95%;
         padding: 0.7em 1em;
         font-size: 15px;
         border-radius: 20px;
@@ -493,6 +493,11 @@ footer .button {
 
     footer input {
         margin: 0;
+        padding: 0.6em 1.5em;
+    }
+
+    footer .button{
+        padding: 0.6em 1.5em;
     }
 
     .footer-para {
@@ -500,7 +505,9 @@ footer .button {
         padding-top: 2em;
     }
 
-
+    .attribution{
+        font-size: 12px;
+    }
 
 
 
