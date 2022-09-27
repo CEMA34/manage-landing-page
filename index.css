@@ -79,6 +79,7 @@ a:hover {
     font-size: 45px;
     color: hsl(228, 39%, 23%);
     width: 70%;
+    font-weight: 700;
 }
 
 .para {
