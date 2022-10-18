@@ -127,8 +127,14 @@ a:hover {
     margin-top: 7em;
 }
 
-.second-section-second-div span{
-}
+.second-section-inner-div{
+    display: flex;
+    align-items: center;
+  }
+
+  .second-section-inner-div h3{
+    margin-left: 1em;
+  }
 
 .second-section-second-div p {
     margin: 0;
@@ -142,6 +148,8 @@ a:hover {
     padding: 0.5em 1.3em;
     border-radius: 20px;
     font-size: 14px;
+    width: 60px;
+    text-align: center;
 }
 
 .third-section-first-div {
@@ -342,16 +350,18 @@ footer .button {
     .second-section-second-div {
         margin-top: 2em;
     }
-
     
+    .second-section-inner-div span{
+        position: absolute;
+        left:45px;
+    }
 
     .second-section h3 {
         margin: 0 auto;
         background-color: hsl(13, 100%, 96%);
-        width: 95%;
-        padding: 0.7em 1em;
+        width: 100%;
+        padding: 0.5em 1em;
         font-size: 15px;
-        border-radius: 20px;
         line-height: 25px;
     }
 
