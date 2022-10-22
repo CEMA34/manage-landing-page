@@ -286,12 +286,12 @@ footer .button {
     }
 
     nav ul {
-        width: 370px;
-        justify-content: space-between;
+        width: 320px;
+        justify-content: space-around;
     }
 
     nav a {
-        font-size: 12px;
+        font-size: 10px;
     }
 
     .first-section {
