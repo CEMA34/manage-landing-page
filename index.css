@@ -286,7 +286,7 @@ footer .button {
     }
 
     nav ul {
-        width: 320px;
+        width: 350px;
         justify-content: space-around;
     }
 
@@ -353,7 +353,7 @@ footer .button {
     
     .second-section-inner-div span{
         position: absolute;
-        left:45px;
+        left:0;
     }
 
     .second-section h3 {
